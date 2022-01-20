@@ -12,6 +12,7 @@ body {
 main {
     background-color: #3B3F45;
     padding-top: 20px;
+    height: 100vh;
 }
 
 .header {
